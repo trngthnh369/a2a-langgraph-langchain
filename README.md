@@ -278,12 +278,6 @@ You can access these metrics via the `/metrics` endpoint.  See `backend/main.py`
 
 ---
 
-## 🤝 Contributing
-
-[Explain how others can contribute to your project, including guidelines for submitting bug reports, feature requests, and pull requests]
-
----
-
 ## 📞 Support
 
 Email: truongthinhnguyen30303@gmail.com
