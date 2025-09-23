@@ -10,32 +10,7 @@
 
 **An enhanced A2A Agent system with RAG, Web Search, and Streamlit Interface**
 
-[📚 Documentation](#-documentation) •
-[🚀 Quick Start](#-quick-start) •
-[💡 Usage](#-usage) •
-[🔧 Configuration](#-configuration) •
-[📊 Demo](#-demo)
-
 </div>
-
----
-
-## 📋 Table of Contents
-
-- [🎯 Introduction](#-introduction)
-- [✨ Key Features](#-key-features)
-- [🏗️ Architecture](#️-architecture)
-- [🚀 Quick Start](#-quick-start)
-- [💡 Usage](#-usage)
-- [🔧 Configuration](#-configuration)
-- [📊 Demo](#-demo)
-- [🔍 API Reference](#-api-reference)
-- [🧪 Testing](#-testing)
-- [📈 Performance](#-performance)
-- [🚢 Deployment](#-deployment)
-- [🤝 Contributing](#-contributing)
-- [❓ FAQ](#-faq)
-- [📞 Support](#-support)
 
 ---
 
